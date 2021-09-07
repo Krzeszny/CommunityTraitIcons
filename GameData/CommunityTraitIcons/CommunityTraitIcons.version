@@ -25,7 +25,6 @@
 	},
 	"KSP_VERSION_MAX":{
 		"MAJOR":1,
-		"MINOR":7,
-		"PATCH":8
+		"MINOR":12
 	}
 }
